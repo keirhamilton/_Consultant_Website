@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.container .container-fluid {
+	height: 14vh;
+	width: 99%;
+	max-height: 43px;
+	min-height: 15px;
+}
+.container .container-fluid {
+}
+.container .container-fluid {
+	width: 104vmin;
+	display: compact;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+	background-color: #0D4B22;
+	padding-left: 10px;
+	padding-right: 10px;
+}
